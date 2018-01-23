@@ -1,0 +1,22 @@
+.navbar-blue {
+  background-color: #1900ad;
+}
+.navbar-brand {
+  color: white;
+}
+.nav-link {
+  color:white;
+}
+.jumbotron {
+  background-image: url("stadium.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 300px;
+}
+h2 {
+  text-align: center;
+}
+.navbar-toggler {
+  color: white;
+}
